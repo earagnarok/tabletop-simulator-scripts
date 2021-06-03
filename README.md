@@ -1,5 +1,4 @@
-# epic-tts
-Tabletop simulator scripts for Epic Armageddon. 
+## Tabletop Simulator scripts for EA:Ragnarok
 
 The main script epic.ttslua (Global TTS script) has two features. 
 1. Uses scripting buttons, and TTS vector graphics, to draw a range finder around models.
